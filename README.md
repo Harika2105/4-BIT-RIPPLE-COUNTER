@@ -1,14 +1,14 @@
 # 4-BIT-RIPPLE-COUNTER
 
-**AIM:**
+### **AIM:**
 
 To implement  4 Bit Ripple Counter using verilog and validating their functionality using their functional tables
 
-**SOFTWARE REQUIRED:**
+### **SOFTWARE REQUIRED:**
 
 Quartus prime
 
-**THEORY**
+### **THEORY**
 
 **4 Bit Ripple Counter**
 
@@ -22,19 +22,25 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 ![image](https://github.com/naavaneetha/4-BIT-RIPPLE-COUNTER/assets/154305477/85e1958a-2fc1-49bb-9a9f-d58ccbf3663c)
 
-**Procedure**
+### **Procedure**
 
 /* write all the steps invloved */
 
-**PROGRAM**
+### **PROGRAM**
+![Ripple counter program](https://github.com/user-attachments/assets/76c1196a-a0cc-4fda-bfa6-3466431397ff)
 
 /* Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
 
- Developed by: RegisterNumber:
+ Developed by:S.Harika
+ RegisterNumber:24002063
 */
 
-**RTL LOGIC FOR 4 Bit Ripple Counter**
+### **RTL LOGIC FOR 4 Bit Ripple Counter**
+![Ripple counter](https://github.com/user-attachments/assets/7b89606a-3300-44c5-8aef-520c361c7616)
 
-**TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 
-**RESULTS**
+### **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
+![Ripple counter wf](https://github.com/user-attachments/assets/19af4493-2b77-4348-b529-4d7513a10fd8)
+
+### **RESULTS**
+Therefore 4-Bit-Ripple-Counter register in always @ method using verilog and validating their functionally using their functional tables is verify.
